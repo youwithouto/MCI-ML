@@ -1,1 +1,8 @@
 tiger/
+
+chapter03/
+
+**/.DS_Store
+**/_build
+**/*.native
+**/tmp

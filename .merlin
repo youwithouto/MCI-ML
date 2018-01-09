@@ -1,1 +1,2 @@
-PKG core lwt
+PKG core
+PKG lexing
